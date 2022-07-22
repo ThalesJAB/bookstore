@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 be83a57408e617ad753597c9661f0f55b335e91b ThalesJAB <thalesjoseaguiar@gmail.com> 1655778838 -0300	commit (initial): initial commit
+be83a57408e617ad753597c9661f0f55b335e91b 242be2bfac6445e862d74866393c53be31e019d2 ThalesJAB <thalesjoseaguiar@gmail.com> 1655780396 -0300	commit: angular material instalado com sucesso
+242be2bfac6445e862d74866393c53be31e019d2 65c974e0e3e9dd775ffc314ede17a132f61c3134 ThalesJAB <thalesjoseaguiar@gmail.com> 1655864820 -0300	commit: home implementado com rota
+65c974e0e3e9dd775ffc314ede17a132f61c3134 8bad34b90661087a7679958c9479a594f5286ff9 ThalesJAB <thalesjoseaguiar@gmail.com> 1655869466 -0300	commit: categoria-read foi implementado
+8bad34b90661087a7679958c9479a594f5286ff9 ee6d39926040c15a8405192ba5524bfe96faec9a ThalesJAB <thalesjoseaguiar@gmail.com> 1655956042 -0300	commit: ajustes no component-read
+ee6d39926040c15a8405192ba5524bfe96faec9a feec0e9499e6f610a33c9f7ea1fdf7e557286309 ThalesJAB <thalesjoseaguiar@gmail.com> 1657046648 -0300	commit: Metodo CREATE implementado para Categoria
+feec0e9499e6f610a33c9f7ea1fdf7e557286309 c19e8169b5015434b87420d9058907de077500a8 ThalesJAB <thalesjoseaguiar@gmail.com> 1657046952 -0300	commit: finalizando o metodo CREATE
+c19e8169b5015434b87420d9058907de077500a8 d5746c3b0da5bbd1790485df562f53cf03922252 ThalesJAB <thalesjoseaguiar@gmail.com> 1657049939 -0300	commit: Categoria DELETE implementada
+d5746c3b0da5bbd1790485df562f53cf03922252 bc8cefe33afe77d0a72bfa06431d84d25c12ab91 ThalesJAB <thalesjoseaguiar@gmail.com> 1657222084 -0300	commit: UPDATE para categoria implementado
+bc8cefe33afe77d0a72bfa06431d84d25c12ab91 70ebab1ef531d68e565cc5e0b8d2fe7ddf16da3c ThalesJAB <thalesjoseaguiar@gmail.com> 1657303918 -0300	commit: leitura de todos os livros por categoria
+70ebab1ef531d68e565cc5e0b8d2fe7ddf16da3c b514c20dc7c152038c771d0ee9e8e47b855ad3e8 ThalesJAB <thalesjoseaguiar@gmail.com> 1657510773 -0300	commit: Livro CREATE finalizado
+b514c20dc7c152038c771d0ee9e8e47b855ad3e8 5af54da5c427382bc4b7fbc2db5fd2da8bc051ea ThalesJAB <thalesjoseaguiar@gmail.com> 1657512994 -0300	commit: UPDATE para livro finalizado
+5af54da5c427382bc4b7fbc2db5fd2da8bc051ea 59e94bd286b69e1457f97b516307768db4782d78 ThalesJAB <thalesjoseaguiar@gmail.com> 1657514955 -0300	commit: DELETAR de livro finalizado
+59e94bd286b69e1457f97b516307768db4782d78 c5faaca77fdd6a95059d9d9a61c241a858d30be8 ThalesJAB <thalesjoseaguiar@gmail.com> 1657563294 -0300	commit: READ para livro finalizado
+c5faaca77fdd6a95059d9d9a61c241a858d30be8 be6403d0238780515a2c7519b335c348355e4f04 ThalesJAB <thalesjoseaguiar@gmail.com> 1657683824 -0300	commit: ajustes dos styles em Categoria
+be6403d0238780515a2c7519b335c348355e4f04 70724dd63de8ba0b9be6e9827b7d1bc7eccf3042 ThalesJAB <thalesjoseaguiar@gmail.com> 1658114749 -0300	commit: ajustes dos styles em Livro
+70724dd63de8ba0b9be6e9827b7d1bc7eccf3042 83fb6199daea40e4ff639f9a4d00c9a5ec7b1c13 ThalesJAB <thalesjoseaguiar@gmail.com> 1658115651 -0300	commit: correcao de styles em Categoria
+83fb6199daea40e4ff639f9a4d00c9a5ec7b1c13 d819da1f765f045b687942a6367fe21a6eb74859 ThalesJAB <thalesjoseaguiar@gmail.com> 1658116109 -0300	commit: correcao de styles em livro delete
+d819da1f765f045b687942a6367fe21a6eb74859 fd34ccb167ca18e31389aaca526a1b0d29971fb0 ThalesJAB <thalesjoseaguiar@gmail.com> 1658285803 -0300	commit: ajustes dos styles em Home
+fd34ccb167ca18e31389aaca526a1b0d29971fb0 ce808c818e36f883e570d0d451b6bf728e3cdfbd ThalesJAB <thalesjoseaguiar@gmail.com> 1658458325 -0300	commit: preparando para deploy
