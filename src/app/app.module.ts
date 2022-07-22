@@ -29,6 +29,7 @@ import { LivroUpdateComponent } from "./components/views/livro/livro-update/livr
 import { LivroDeleteComponent } from "./components/views/livro/livro-delete/livro-delete.component";
 import { LivroReadComponent } from "./components/views/livro/livro-read/livro-read.component";
 import { MatSelectModule } from "@angular/material/select";
+import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 
 @NgModule({
   declarations: [
@@ -66,7 +67,7 @@ import { MatSelectModule } from "@angular/material/select";
     ReactiveFormsModule,
     MatSelectModule,
   ],
-  providers: [],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
